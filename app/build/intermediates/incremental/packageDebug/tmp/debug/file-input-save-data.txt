@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Aug 28 11:24:28 ICT 2022
+2.base=/home/vibes/AndroidStudioProjects/To-do-list/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.path=classes.dex
+count=3
+1.set=ASSET
+2.path=fonts/Roboto-Medium.ttf
+2.baseType=DIRECTORY
+0.base=/home/vibes/AndroidStudioProjects/To-do-list/app/build/intermediates/transforms/dexMerger/debug/0
+2.set=ASSET
+1.baseType=DIRECTORY
+1.path=fonts/Aller_Regular.ttf
+0.baseType=DIRECTORY
+1.base=/home/vibes/AndroidStudioProjects/To-do-list/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.set=DEX
